@@ -1,0 +1,12 @@
+pyproject.toml
+self_eval/__init__.py
+self_eval/cycle.py
+self_eval/judge.py
+self_eval/llm.py
+self_eval/metrics.py
+self_eval_agent.egg-info/PKG-INFO
+self_eval_agent.egg-info/SOURCES.txt
+self_eval_agent.egg-info/dependency_links.txt
+self_eval_agent.egg-info/requires.txt
+self_eval_agent.egg-info/top_level.txt
+tests/test_self_eval.py
